@@ -1,0 +1,4 @@
+SELECT clientes.nome, COUNT(*)
+FROM pedidos, clientes
+WHERE clientes.codigo_cliente = pedidos.codigo_cliente
+GROUP BY nome

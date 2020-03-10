@@ -1,0 +1,2 @@
+Ex.1
+Banco de dados se refere a uma coleção de dados inter-relacionados sobre um objeto específico, por exemplo, um sistema de controle de clientes de uma loja. Já o Sistema de Gerenciamento de Banco de Dados, o SGBD, é um software com recursos que facilitam a manipulação desses dados do banco de dados. Um exemplo de SGBD é o SQLyog.
